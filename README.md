@@ -219,7 +219,7 @@
 **备注**: 海外团队运作，支持SS、SSR协议
 
 ### 飞机云机场
-**官网地址**: [https://feijiyun38.xyz/auth/register?code=44Ju](https://feijiyun38.xyz/auth/register?code=44Ju)
+**[官网地址](https://feiji659.xyz/auth/register?code=4BqU)**
 
 **主要特点**: 价格实惠，性价比高  
 **线路类型**: 未明确列出  
@@ -235,7 +235,7 @@
 **备注**: 提供工单和在线客服支持
 
 ### 灯塔Cloud机场
-**官网地址**: [https://dengta.xn--xhq8sm16c5ls.com/#/register?code=wckrZ98j](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=wckrZ98j)
+**[官网地址](https://www.dengta.cloud/register?code=3TWBYQf5)**
 
 **主要特点**: IEPL专线，官网全平台客户端  
 **线路类型**: IEPL专线  
@@ -250,7 +250,7 @@
 **备注**: 注册试用60分钟10GB高速流量
 
 ### 奈云机场
-**官网地址**: [https://www.v2ny.com/#/register?code=merufrWX](https://www.v2ny.com/#/register?code=merufrWX)
+**[官网地址](http://7.vip.v2ny.me?path=register&code=OOOIxL0e)**
 
 **主要特点**: 稳定高效专线IPLC线路  
 **线路类型**: IPLC专线  
@@ -267,7 +267,7 @@
 **备注**: 解锁内容丰富
 
 ### 维尼(霓虹)云机场
-**官网地址**: [https://www.nihong.org/#/register?code=Nmlo8gAF](https://www.nihong.org/#/register?code=Nmlo8gAF)
+**[官网地址](https://www.nihong.org/#/register?code=JKfwie4Z)**
 
 **主要特点**: 优质的网路频宽，精心优化传输算法，大陆BGP多线  
 **线路类型**: 大陆BGP多线  
