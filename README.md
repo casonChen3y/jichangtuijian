@@ -342,59 +342,8 @@
 **流媒体/AI解锁情况**: Netflix、Hulu、HBO等  
 **备注**: 节点需要付费解锁
 
-### BoostNet机场
-**官网地址**: [https://boostnet.io](https://boostnet.io)
-
-**主要特点**: 解锁流媒体，只能中国内地使用  
-**线路类型**: 未明确列出  
-**流量与价格**: 
-- 轻量¥20/月(20GB)
-- ¥118/年(20GB/月)
-- 爆款¥39/月(200GB)
-- 大流量¥58/月(400GB)
-- 超大流量¥108/月(1000GB)
-- 至尊VIP¥388/月(1500GB)  
-**适用人群**: 仅限中国内地用户  
-**设备支持**: 多平台支持  
-**流媒体/AI解锁情况**: Netflix/GPT/Disney+  
-**备注**: 禁止BT/P2P/PT
-
-### 悠兔机场
-**官网地址**: [https://youtu.cloud](https://youtu.cloud)
-
-**主要特点**: 入口广东，IEPL专线和隧道公网中转  
-**线路类型**: IEPL专线和隧道公网中转  
-**流量与价格**: 
-- 50GB/月¥29
-- 150GB/月¥29
-- 300GB/月¥39
-- 500GB/月¥59
-- 1000GB/月¥100  
-**适用人群**: 需要稳定连接的用户  
-**设备支持**: 多平台支持  
-**流媒体/AI解锁情况**: ChatGPT/OpenAI，解锁常见的流媒体平台  
-**备注**: 屏蔽轮媒、RFA 和 Pincong 等内容，禁止使用传统的SMTP、POP3、IMAP邮件协议
-
-### 掌中世界机场
-**官网地址**: [https://www.zzsjjsq.com/user/register?code=HWZMKKAc](https://www.zzsjjsq.com/user/register?code=HWZMKKAc)
-
-**主要特点**: 高价购入IPLC内网专线，精心优化传输算法  
-**线路类型**: IPLC内网专线  
-**流量与价格**: 
-- BA1.0 ¥18/月(100GB)
-- ST2.0 ¥20/月(280GB)
-- PR5 ¥45/月(680GB)
-- mini X ¥78/年(30GB/月)
-- mini S ¥88/年(60GB/月)
-- king ¥299/2年(2088GB)
-- 限量传家宝¥399(5550GB)  
-**适用人群**: 追求高速连接的用户  
-**设备支持**: 多平台支持  
-**流媒体/AI解锁情况**: 未明确列出，应支持主流流媒体  
-**备注**: 最先进流量隐藏技术，将VPN穿墙流量化身网页浏览，免于防火墙干扰
-
 ### 速云梯机场
-**官网地址**: [https://suyunti981.xyz/auth/register?code=cxIu](https://suyunti981.xyz/auth/register?code=cxIu)
+**[官网地址](https://suyunti981.xyz/auth/register?code=9VRF)**
 
 **主要特点**: 拥有多种翻墙协议节点、支持SSR和V2ray协议，拥有国内中转和IPLC内网专线  
 **线路类型**: 中转+IPLC专线  
