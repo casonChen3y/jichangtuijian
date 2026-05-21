@@ -281,7 +281,7 @@
 **备注**: 先进的流量隐藏技术，穿墙流量化身网页浏览
 
 ### 桔子云机场
-**官网地址**: [https://juziyun996.xyz/auth/register?code=9ZEL](https://juziyun996.xyz/auth/register?code=9ZEL)
+**[官网地址](https://juzi82.xyz/auth/register?code=yirg)**
 
 **主要特点**: CN2/BGP隧道中转和IPLC国际专线  
 **线路类型**: CN2/BGP+IPLC  
