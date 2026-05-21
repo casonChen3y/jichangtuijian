@@ -151,24 +151,8 @@
 **流媒体/AI解锁情况**: 支持绝大多数流媒体  
 **备注**: 上线全新的Hysteria2协议
 
-### 老猫云机场
-**官网地址**: [https://laomao.biz?path=register&code=0mDDoTul](https://laomao.biz?path=register&code=0mDDoTul)
-
-**主要特点**: IEPL专线，Trojan协议，深圳移动入口  
-**线路类型**: IEPL专线  
-**流量与价格**: 
-- B套餐¥45/季(50G)
-- C套餐¥20/月(100G)
-- D套餐¥30/月(200G)
-- E套餐¥40/月(300G)
-- F套餐¥150/季(500G)  
-**适用人群**: 追求稳定连接和亲民价格的用户  
-**设备支持**: 提供官网客户端  
-**流媒体/AI解锁情况**: Netflix、Disney+、TikTok、ChatGPT等  
-**备注**: 稳定网络连接，亲民的价格
-
 ### 可乐云机场
-**官网地址**: [https://panel.colacloud.co/#/register?code=2Raqbsln](https://panel.colacloud.co/#/register?code=2Raqbsln)
+**[官网地址](https://panel.colacloud.co/#/register?code=FOJDXdHe)**
 
 **主要特点**: 100+优质线路节点，CN2线路、CMI国际线路、IEPL国际专线，速度快、节点稳定，可定制原生千兆独享节点  
 **线路类型**: CN2+CMI+IEPL  
@@ -184,38 +168,8 @@
 **流媒体/AI解锁情况**: Netflix、Hulu、Disney+等  
 **备注**: 支持Trojan/SSR/V2Ray协议
 
-### GsouCloud机场
-**官网地址**: [https://gsourecommend.pics/auth/register?code=POvWMJ](https://gsourecommend.pics/auth/register?code=POvWMJ)
-
-**主要特点**: 高速稳定，适用于macOS、iOS、Android、Windows和Linux，连接全球内容提供商  
-**线路类型**: 未明确列出  
-**流量与价格**: 
-- SIMPLE ¥25/月(100GB)
-- LITE ¥30/月(150GB)
-- PRO ¥35/月(225GB)
-- PRO ULTRA ¥1499/年(18888GB)  
-**适用人群**: 多平台用户  
-**设备支持**: 多平台支持  
-**流媒体/AI解锁情况**: 兼容第三方应用程序  
-**备注**: 相比自托管服务可节省大量费用
-
-### ByWave机场
-**官网地址**: [https://user.by.ltd/aff.php?aff=29086](https://user.by.ltd/aff.php?aff=29086)
-
-**主要特点**: 全线IPLC直连，企业级10G带宽，SS/V2Ray协议，BGP隧道中转+智能选路  
-**线路类型**: IPLC专线  
-**流量与价格**: 
-- Special¥140/年(200GB)
-- Bronze¥30/月(150GB)
-- Gold¥60/月(500GB)
-- Platinum¥110/月(1000GB)  
-**适用人群**: 追求速度与稳定性的用户  
-**设备支持**: 多平台支持  
-**流媒体/AI解锁情况**: Netflix / ChatGPT  
-**备注**: 全线IPLC直连，无惧封锁
-
 ### 奶茶Cloud机场
-**官网地址**: [https://cf.ieplcloud.net/#/register?code=lM0KhuPz](https://cf.ieplcloud.net/#/register?code=lM0KhuPz)
+**[官网地址](https://cf.ieplcloud.net/#/register?code=pFkof3Or)**
 
 **主要特点**: Hysteria2节点，速度更快，适合下载及流媒体  
 **线路类型**: Hysteria2  
@@ -233,7 +187,7 @@
 **备注**: 已支持Hysteria2节点
 
 ### 起帆Cloud机场
-**官网地址**: [https://www.qf1.us/#/register?code=nj6UhdSy](https://www.qf1.us/#/register?code=nj6UhdSy)
+**[官网地址](https://www.qf1.us/#/register?code=V1e3jqVm)**
 
 **主要特点**: Hysteria协议，无审计高速专线，极低延迟，不限设备数，全平台通用  
 **线路类型**: Hysteria协议  
@@ -246,28 +200,8 @@
 **流媒体/AI解锁情况**: 解锁流媒体及ChatGPT  
 **备注**: 提供无与伦比的性能
 
-### 万城Vcity机场
-**官网地址**: [https://port01.wc-yz.com/#/register?code=jOE7KbWs](https://port01.wc-yz.com/#/register?code=jOE7KbWs)
-
-**主要特点**: 全域企业级IEPL专线，解锁GPT/流媒体  
-**线路类型**: IEPL专线  
-**流量与价格**: 
-- 体验¥12/月(6GB)
-- 迷你¥22/月(120GB)
-- 入门¥38/月(220GB)
-- 标准¥68/月(380GB)
-- 专业¥138/月(780GB)
-- 小包¥88/年(60GB)
-- 中包¥128/年(260GB)
-- 大包¥298(580GB)
-- 超大包¥598(1300GB)  
-**适用人群**: 对线路质量有要求的用户  
-**设备支持**: 多平台支持  
-**流媒体/AI解锁情况**: 支持GPT/流媒体解锁  
-**备注**: 提供一次性流量包套餐
-
 ### 泡芙云机场
-**官网地址**: [https://www.paofu.cloud/auth/register?code=iYIp](https://www.paofu.cloud/auth/register?code=iYIp)
+**[官网地址](https://www.paofu.cloud/auth/register?code=kzwR)**
 
 **主要特点**: IEPL内网专线，不过墙，新用户1元试用，首购9折优惠  
 **线路类型**: IEPL专线  
